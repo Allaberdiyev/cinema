@@ -90,7 +90,7 @@ class ExplorePage extends StatelessWidget {
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(10.r),
                             image: const DecorationImage(
-                              image: AssetImage("assets/images/harry.jpg"),
+                              image: AssetImage("assets/images/hurry.jpg"),
                               fit: BoxFit.cover,
                             ),
                           ),
